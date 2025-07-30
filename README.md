@@ -32,7 +32,7 @@
 <br/>
 
 <!-- GitHub Stats -->
-[![](https://github-readme-stats.vercel.app/api?username=e2-m4rk&show_icons=true&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=222222&border_radius=12&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=mjdelatorre&show_icons=true&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=222222&border_radius=12&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
